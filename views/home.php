@@ -1,6 +1,6 @@
 <?php
 // Set page-specific variables
-$pageTitle = "KOPPEE - Coffee Shop Home";
+//$pageTitle = "Ceyminds - Consultation";
 ?>
 
 <?php include 'views/layouts/header.php'; ?>
