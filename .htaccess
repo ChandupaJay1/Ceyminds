@@ -1,0 +1,7 @@
+Options -Multiviews
+RewriteEngine On
+RewriteBase /Ceyminds/
+
+# Redirect clean URLs like /about → home.php?page=about
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ index.php?page=$1 [L]
+
