@@ -399,7 +399,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 1.5rem;
+  font-size: 1.14rem;
 }
 
 @media (max-width: 1200px) {
@@ -9647,7 +9647,7 @@ h6,
 .page-header,
 .offer,
 .footer {
-  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(../img/bg.jpg);
+  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.76)), url(../img/bg.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;

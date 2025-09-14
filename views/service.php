@@ -25,7 +25,7 @@
         <div class="container">
             <div class="section-title">
                 <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">Our Services</h4>
-                <h1 class="display-4">Fresh & Organic Beans</h1>
+                <h1 class="display-4">Empowering Businesses for Growth</h1>
             </div>
             <div class="row">
                 <div class="col-lg-6 mb-5">
@@ -34,9 +34,9 @@
                             <img class="img-fluid mb-3 mb-sm-0" src="img/service-1.jpg" alt="">
                         </div>
                         <div class="col-sm-7">
-                            <h4><i class="fa fa-truck service-icon"></i>Fastest Door Delivery</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit
-                                invidunt, dolore tempor diam ipsum takima erat tempor</p>
+                            <h4><i class="fa fa-truck service-icon"></i>Strategy & Planning</h4>
+                            <p class="m-0">We help organizations define their vision, set achievable goals, and create actionable roadmaps
+                                for long-term growth and sustainability.</p>
                         </div>
                     </div>
                 </div>
@@ -46,9 +46,9 @@
                             <img class="img-fluid mb-3 mb-sm-0" src="img/service-2.jpg" alt="">
                         </div>
                         <div class="col-sm-7">
-                            <h4><i class="fa fa-coffee service-icon"></i>Fresh Coffee Beans</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit
-                                invidunt, dolore tempor diam ipsum takima erat tempor</p>
+                            <h4><i class="fa fa-coffee service-icon"></i>Market Research</h4>
+                            <p class="m-0">In-depth market insights, competitor benchmarking, and customer analysis to help you make
+                                data-driven decisions.</p>
                         </div>
                     </div>
                 </div>
@@ -58,9 +58,9 @@
                             <img class="img-fluid mb-3 mb-sm-0" src="img/service-3.jpg" alt="">
                         </div>
                         <div class="col-sm-7">
-                            <h4><i class="fa fa-award service-icon"></i>Best Quality Coffee</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit
-                                invidunt, dolore tempor diam ipsum takima erat tempor</p>
+                            <h4><i class="fa fa-award service-icon"></i>Financial Consulting</h4>
+                            <p class="m-0">Expert financial planning, budgeting, and forecasting to ensure profitability, cost optimization,
+                                and sustainable business growth.</p>
                         </div>
                     </div>
                 </div>
@@ -70,9 +70,9 @@
                             <img class="img-fluid mb-3 mb-sm-0" src="img/service-4.jpg" alt="">
                         </div>
                         <div class="col-sm-7">
-                            <h4><i class="fa fa-table service-icon"></i>Online Table Booking</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit
-                                invidunt, dolore tempor diam ipsum takima erat tempor</p>
+                            <h4><i class="fa fa-table service-icon"></i>Process Optimization</h4>
+                            <p class="m-0">End-to-end project management support, from planning to execution, ensuring projects are delivered
+                                on time and within budget.</p>
                         </div>
                     </div>
                 </div>

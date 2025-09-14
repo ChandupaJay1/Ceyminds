@@ -19,83 +19,55 @@
     <!-- Page Header End -->
 
 
-    <!-- Menu Start -->
+    <!-- Plans & Pricing Start -->
     <div class="container-fluid pt-5">
         <div class="container">
-            <div class="section-title">
+            <div class="section-title text-center">
                 <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">Plans & Pricing</h4>
-                <h1 class="display-4">Competitive Pricing</h1>
+                <h1 class="display-4">Choose Your Package</h1>
             </div>
             <div class="row">
-                <div class="col-lg-6">
-                    <h1 class="mb-5">Hot Coffee</h1>
-                    <div class="row align-items-center mb-5">
-                        <div class="col-4 col-sm-3">
-                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-1.jpg" alt="">
-                            <h5 class="menu-price">$5</h5>
-                        </div>
-                        <div class="col-8 col-sm-9">
-                            <h4>Black Coffee</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
-                        </div>
-                    </div>
-                    <div class="row align-items-center mb-5">
-                        <div class="col-4 col-sm-3">
-                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-2.jpg" alt="">
-                            <h5 class="menu-price">$7</h5>
-                        </div>
-                        <div class="col-8 col-sm-9">
-                            <h4>Chocolete Coffee</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
-                        </div>
-                    </div>
-                    <div class="row align-items-center mb-5">
-                        <div class="col-4 col-sm-3">
-                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-3.jpg" alt="">
-                            <h5 class="menu-price">$9</h5>
-                        </div>
-                        <div class="col-8 col-sm-9">
-                            <h4>Coffee With Milk</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
+                <!-- Standard Plan -->
+                <div class="col-lg-6 mb-5 d-flex">
+                    <div class="p-4 border rounded shadow-sm w-100 d-flex flex-column">
+                        <h2 class="mb-4 text-center">Standard Plan</h2>
+                        <ul class="list-unstyled flex-grow-1">
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Business Strategy Session</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Market Research Report</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Financial Planning Basics</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Process Optimization Tips</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Email Support (Mon-Fri)</li>
+                        </ul>
+                        <div class="text-center mt-auto">
+                            <h3 class="text-primary">$299 <small class="text-muted">/month</small></h3>
+                            <a href="#" class="btn btn-primary mt-3 px-4">Get Started</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <h1 class="mb-5">Cold Coffee</h1>
-                    <div class="row align-items-center mb-5">
-                        <div class="col-4 col-sm-3">
-                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-1.jpg" alt="">
-                            <h5 class="menu-price">$5</h5>
-                        </div>
-                        <div class="col-8 col-sm-9">
-                            <h4>Black Coffee</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
-                        </div>
-                    </div>
-                    <div class="row align-items-center mb-5">
-                        <div class="col-4 col-sm-3">
-                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-2.jpg" alt="">
-                            <h5 class="menu-price">$7</h5>
-                        </div>
-                        <div class="col-8 col-sm-9">
-                            <h4>Chocolete Coffee</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
-                        </div>
-                    </div>
-                    <div class="row align-items-center mb-5">
-                        <div class="col-4 col-sm-3">
-                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-3.jpg" alt="">
-                            <h5 class="menu-price">$9</h5>
-                        </div>
-                        <div class="col-8 col-sm-9">
-                            <h4>Coffee With Milk</h4>
-                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
+
+                <!-- Premium Plan -->
+                <div class="col-lg-6 mb-5 d-flex">
+                    <div class="p-4 border rounded shadow-sm w-100 d-flex flex-column bg-light">
+                        <h2 class="mb-4 text-center">Premium Plan</h2>
+                        <ul class="list-unstyled flex-grow-1">
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Everything in Standard</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> In-depth Market Analysis</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Advanced Financial Forecasting</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Digital Transformation Guidance</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> Dedicated Consultant Support</li>
+                            <li class="mb-3"><i class="fa fa-check text-primary mr-2"></i> 24/7 Priority Assistance</li>
+                        </ul>
+                        <div class="text-center mt-auto">
+                            <h3 class="text-primary">$599 <small class="text-muted">/month</small></h3>
+                            <a href="#" class="btn btn-primary mt-3 px-4">Get Started</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Menu End -->
+    <!-- Plans & Pricing End -->
+
+
 
 <?php include 'views/layouts/footer.php'; ?>
